@@ -17,16 +17,18 @@
 ## 📊 주차별 진행 현황
 매주 목표 달성률을 시각적으로 확인합니다. (✅: 완료 / 🌗: 진행 중 /  ❌: 미완료)
 
-| 주차 | 문제 리스트 | 다은 | 지원 | 병현 | 주헌 |
-| :--- | :--- | :--- | :---: | :---: | :---: |
-| **Week 01** | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/12903), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12918), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | ✅ | ✅ | ✅ | ✅ |
-| **Week 02** | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/82612), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12906), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/120887), [문제4](https://school.programmers.co.kr/learn/courses/30/lessons/12982), [문제5](https://school.programmers.co.kr/learn/courses/30/lessons/12922), [문제6](https://school.programmers.co.kr/learn/courses/30/lessons/12917), [문제7](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | ✅ | ✅ | ✅ | ✅ |
-| **Week 03** | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/147355), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12935), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/77884), [문제4](https://school.programmers.co.kr/learn/courses/30/lessons/1845), [문제5](https://school.programmers.co.kr/learn/courses/30/lessons/136798), [문제6](https://school.programmers.co.kr/learn/courses/30/lessons/12948), [문제7](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | ✅ | ✅ | ✅ | ✅ |
-| **Week 04** | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/12919), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/68935), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/86051), [문제4](https://school.programmers.co.kr/learn/courses/30/lessons/12943), [문제5](https://school.programmers.co.kr/learn/courses/30/lessons/76501), [문제6](https://school.programmers.co.kr/learn/courses/30/lessons/131705), [문제7](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | ✅ | ✅ | ✅ | ✅ |
-| **Week 05** | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/12910), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12910), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/70128),| - | - | - | - |
-| **Week 06** | - | - | - | - | - |
-| **Week 07** | - | - | - | - | - |
-
+| 주차 | 지원 | 병현 | 주헌 | ~~다은~~ |
+| :--- | :---: | :---: | :---: | :---: |
+| **Week 01** | ✅ | ✅ | ✅ | ~~✅~~ |
+| **Week 02** | ✅ | ✅ | ✅ | ~~✅~~ |
+| **Week 03** | ✅ | ✅ | ✅ | ~~✅~~ |
+| **Week 04** | ✅ | ✅ | ✅ | ~~✅~~ |
+| **Week 05** | ✅ | ✅ | ✅ |
+| **Week 06** | ✅ | ✅ | ✅ |
+| **Week 07** | ✅ | ✅ | ✅ |
+| **Week 08** | ✅ | ✅ | ✅ |
+| **Week 09** | ✅ | ✅ | ✅ |
+| **Week 10** | ✅ | ✅ | ✅ |
 
 <br>
 
@@ -42,7 +44,7 @@
   | 1 | **박주헌** | 문제 출제 |
   | 2 | **윤지원** | 문제 출제 |
   | 3 | **한병현** | 문제 출제 |
-  | 4 | **권다은** | 문제 출제 |
+  | ~~4~~ | ~~**권다은**~~ | ~~문제 출제~~ |
 
 <br>
 
@@ -51,19 +53,10 @@
 ```text
 404-not-found-study/
 ├── 📑 README.md                (전체 공지 및 진행 현황)
-├── 👤 kwondaeun/                   (개인별 최상위 폴더)
+├── 👤 yoonjiwon/               (개인별 최상위 폴더)
 │   └── 📅 week-01/             (주차별 폴더)
 │       ├── 🧩 120802.두 수의 합.js
 │       └── ...            
-├── 👤 yoonjiwon/
 ├── 👤 hanbyeonghyeon/
-└── 👤 parkjuheon/
-```
-
-<br>
-
-## 👥 팀원 소개
-| [권다은](https://github.com/ekdmskwon) | [윤지원](https://github.com/jiwonll) | [한병현](https://github.com/Hanbh97) | [박주헌](https://github.com/JuHeonParkk) |
-| :---: | :---: | :---: | :---: |
-| <img src="https://github.com/ekdmskwon.png" width="100"> | <img src="https://github.com/jiwonll.png" width="100"> | <img src="https://github.com/Hanbh97.png" width="100"> | <img src="https://github.com/JuHeonParkk.png" width="100"> |
-| 팀장 | 팀원 | 팀원 | 팀원 |
+├── 👤 parkjuheon/
+└── 👤 kwondaeun/
